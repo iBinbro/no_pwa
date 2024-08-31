@@ -1,1 +1,1 @@
-{"name":"PWA应用","short_name":"PWA应用","start_url":"/","display":"fullscreen","background_color":"#F4F4F4","lang":"en","scope":"/no_pwa/","description":"PWA应用测试","theme_color":"#F4F4F4","icons":[{"src":"public/icon.png","sizes":"144x144","type":"image/png"}]}
+{"name":"PWA应用","short_name":"PWA应用","start_url":"/","display":"fullscreen","background_color":"#F4F4F4","lang":"en","scope":"/no_pwa/","description":"PWA应用测试","theme_color":"#F4F4F4","icons":[{"src":"static/icon.png","sizes":"144x144","type":"image/png"}]}
