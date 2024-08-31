@@ -1,0 +1,1 @@
+import{_ as s,n as a,c as e,o,i as t}from"./index-BZnXlTqU.js";const n=s({__name:"splash",setup:s=>(setTimeout((function(){a({url:"/pages/login/login"})}),3e3),(s,a)=>{const n=t;return o(),e(n,{class:"splashBack"})})},[["__scopeId","data-v-6393f21e"]]);export{n as default};
